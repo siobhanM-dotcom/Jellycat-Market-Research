@@ -4,7 +4,7 @@ An interactive market research dashboard analysing **Jellycat** — the British 
 
 ## 🔗 Live Dashboard
 
-👉 **[View the Dashboard](https://siobhanM-dotcom.github.io/jellycat-market-research/)** *(update this link with your GitHub username)*
+👉 **[View the Dashboard](https://siobhanm-dotcom.github.io/jellycat-market-research/)** 
 
 ## 📊 What's Covered
 
@@ -57,7 +57,7 @@ This project is deployed via **GitHub Pages**. To deploy your own copy:
 1. Fork or clone this repository
 2. Go to **Settings** → **Pages**
 3. Set source to **Deploy from a branch** → **main** → **/ (root)**
-4. Your site will be live at `https://siobhanM-dotcom.github.io/jellycat-market-research/`
+4. Your site will be live at `https://siobhanm-dotcom.github.io/jellycat-market-research/`
 
 ## 📝 Notes
 
