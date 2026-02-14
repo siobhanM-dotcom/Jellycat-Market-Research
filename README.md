@@ -4,7 +4,7 @@ An interactive market research dashboard analysing **Jellycat** — the British 
 
 ## 🔗 Live Dashboard
 
-👉 **[View the Dashboard](https://siobhanM-dot.com.github.io/jellycat-market-research/)** *(update this link with your GitHub username)*
+👉 **[View the Dashboard](https://siobhanM-dotcom.github.io/jellycat-market-research/)** *(update this link with your GitHub username)*
 
 ## 📊 What's Covered
 
