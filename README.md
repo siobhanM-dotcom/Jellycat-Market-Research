@@ -57,7 +57,7 @@ This project is deployed via **GitHub Pages**. To deploy your own copy:
 1. Fork or clone this repository
 2. Go to **Settings** → **Pages**
 3. Set source to **Deploy from a branch** → **main** → **/ (root)**
-4. Your site will be live at `https://yourusername.github.io/jellycat-market-research/`
+4. Your site will be live at `https://siobhanM-dotcom.github.io/jellycat-market-research/`
 
 ## 📝 Notes
 
